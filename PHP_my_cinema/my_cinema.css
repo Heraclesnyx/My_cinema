@@ -1,0 +1,92 @@
+html, body, div,h1, h2, h3,  p,a, {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside,footer, header,nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+/*overflow-x: hidden;*/}
+ul {
+	list-style: none;
+}
+
+/* #Basic Styles
+================================================== */
+body {
+	font: 12px Arial, Helvetica, sans-serif;
+	overflow-x: hidden;
+	/*background-image: url("images/cinema.jpg");*/
+}
+
+h1, h2, h3 {
+	color: #414558;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+h1 a, h2 a, h3 a {
+	font-weight: inherit;
+	color: #6d8696;
+}
+h1 {
+	font-size: 48px;
+	margin-bottom: 10px;
+}
+h2 {
+	font-size: 16px;
+	margin-bottom:10px;
+	font-weight:600;
+	text-transform:uppercase;
+}
+h3 {
+	font-size: 14px;
+	margin-bottom: 5px;
+	text-transform:uppercase;
+}
+
+p {
+	color: #5e637b;
+	line-height:1.5em;
+	font-size:14px;
+	margin: 0 0 15px 0;
+	font-family: 'PT Serif', serif;
+}
+
+
+ul li, ul li a {
+	font-family: 'PT Serif', serif;
+	font-size:14px;
+}
+/*img.left {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+img.right {
+	float: right;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+	color: #414558;
+}*/
+	
+form {
+	margin-bottom: 0px;
+}
+
+select {
+	padding: 0;
+	width: 220px;
+}
+
+	
